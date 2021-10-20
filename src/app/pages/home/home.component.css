@@ -1,0 +1,47 @@
+body{
+    height: 100%;
+}
+
+#DreamPoster{
+    height: 50vh;
+    width: 100%;
+    background-color: rgb(182, 229, 29);
+    padding-top: 80px;
+}
+
+#DreamPoster img{
+    width: auto;
+    height: 100%;
+}
+
+#FriendsPoster{
+    width: 100%;
+    height: auto;
+    color: white;
+}
+
+#FriendsPoster #WebsiteTitle{
+    padding-top: 20px;
+}
+
+#FriendsPoster #FriendsBG{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    z-index: -5;
+}
+
+#FriendsPoster span{
+    color: rgb(182, 229, 29);
+}
+
+#FriendsPoster .paragraph{
+    font-size: larger;
+    background-color: rgba(20, 20, 20, .5);
+    padding: 20px;
+}
+
+.carousel-caption{
+    background-color: rgba(20, 20, 20, .8);
+}

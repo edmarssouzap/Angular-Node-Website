@@ -1,0 +1,11 @@
+body{
+    height: 100%;
+}
+
+footer{
+    transform: translate(0, 25px);
+}
+
+#foot{
+    border-bottom: 1px solid rgb(90, 90, 90);
+}
